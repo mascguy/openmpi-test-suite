@@ -56,3 +56,12 @@ Makefile
 
 # Object files
 *.o
+
+# CNielsen Additions
+*.log
+cmdline.c
+cmdline.h
+config.h
+config.guess~
+config.sub~
+mpi_test_suite
